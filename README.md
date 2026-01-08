@@ -24,3 +24,5 @@ Methodology:
 
   Validation accuracy
   Precision, recall, and F1-score
+
+Dataset https://www.kaggle.com/datasets/endofnight17j03/industrial-images-dataset
